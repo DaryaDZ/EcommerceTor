@@ -20,8 +20,12 @@
     "axios": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-hook-form": "^7.42.0",
     "react-router-dom": "^6.6.2",
+=======
+    "react-router-dom": "6.4",
+>>>>>>> 157164b4d52c8fafe3cf17a453aea2be7cbe8704
     "react-scripts": "5.0.1",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
